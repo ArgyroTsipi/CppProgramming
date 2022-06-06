@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "482262B6-001C-448D-8C4C-701E731E833A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37240854-5A5B-49D9-B99E-83D49AA4C7B6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "stackdemo/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "~stack()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "37240854-5A5B-49D9-B99E-83D49AA4C7B6 - 14e06cbdb0e92fd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "stack&lt;int&gt;::~stack()"
+                  moduleName = "stackdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/argyro/Desktop/x-code/stackdemo/stackdemo/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "37240854-5A5B-49D9-B99E-83D49AA4C7B6 - 5f82b453ec5ba8e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "stack&lt;double&gt;::~stack()"
+                  moduleName = "stackdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/argyro/Desktop/x-code/stackdemo/stackdemo/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "37240854-5A5B-49D9-B99E-83D49AA4C7B6 - efd05b95dd940907"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "stack&lt;char&gt;::~stack()"
+                  moduleName = "stackdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/argyro/Desktop/x-code/stackdemo/stackdemo/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96D4214A-3910-4741-80F6-D36A48BC845C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "stackdemo/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "stack(s)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
