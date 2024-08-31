@@ -1,2 +1,2 @@
 # C++ Programming 
-This is a series of programming exercises in C++ for the ECE NTUA Programming Techniques class of 2019-2020.
+This is a series of programming exercises in C++ for the ECE NTUA C++ Programming classes.
